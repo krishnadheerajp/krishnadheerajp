@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**krishnadheerajp/krishnadheerajp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <img height="100%" width="100%" src="https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5Nzg1NjIsIm5iZiI6MTczMzk3ODI2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEyVDA0Mzc0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJhNGRlYmEzYjA2ZTc4YmU4ZTIzM2QyNjQ4ZTk5MDgzNTA2YWQ3MGE2ZDljZmM5ZjIwMTc4NzAzYTQzYzU1OGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.N120b9EwFwusVzLLXsbsCo1snqqs2GeGWQqjr629brk"  />
 </div>
@@ -22,9 +7,14 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pillalamarri-krishna-dheeraj/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/pillalamarri-krishna-dheeraj/">  
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />   </a>
+  <a href=mailto:saisuryadheeru@gmail.com>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+    <a href="https://leetcode.com/u/saisuryadheeru/">  
+  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA015&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+    </a>
 </div>
 
 ###
