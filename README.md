@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img height="50%" width="50%" src="profile_gif_readme.gif"  />
 </div>
