@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hello 👋!</h1>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I am a passionate Software Engineer at Bajaj Finserv Direct Limited working as Team Lead & Full-stack AEM Developer. My role involves working extensively on Adobe Experience Manager (AEM), both on the front-end and back-end. 
+<p align="left">My name is Pillalamarri Krishna Dheeraj. I am a Software Engineer at Bajaj Finserv Direct Limited working as Team Lead & Full-stack AEM Developer. My role involves working extensively on Adobe Experience Manager (AEM), both on the front-end and back-end. 
 I'm all about creating seamless digital experiences and taking on challenges in this dynamic field. As a technology enthusiast, I'm always eager to explore new tools and frameworks to enhance our digital solutions.</p>
 
 ###
