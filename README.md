@@ -51,7 +51,7 @@ I'm all about creating seamless digital experiences and taking on challenges in 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnadheerajp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=krishnadheerajp&theme=dark" alt="GitHub Streak" />
 </div>
 
 ###
